@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="java/src/generated/main/java"/>
+	<classpathentry kind="src" path="java/src/main/java"/>
+	<classpathentry kind="lib" path="D:/Workspace/GRPC/example-grpc/lib/grpc-stub-1.20.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_211"/>
+	<classpathentry kind="lib" path="D:/Workspace/GRPC/example-grpc/lib/grpc-core-1.20.0.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/GRPC/example-grpc/lib/grpc-protobuf-1.20.0.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/GRPC/example-grpc/lib/protobuf-java-3.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/GRPC/example-grpc/lib/grpc-context-1.20.0.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/GRPC/example-grpc/lib/grpc-netty-1.20.0.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/GRPC/example-grpc/lib/grpc-okhttp-1.20.0.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/GRPC/example-grpc/lib/guava-27.1-jre.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/GRPC/example-grpc/lib/netty-all-4.1.36.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/GRPC/example-grpc/lib/opencensus-api-0.21.0.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/GRPC/example-grpc/lib/grpc-protobuf-lite-1.20.0.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/GRPC/example-grpc/lib/opencensus-contrib-grpc-metrics-0.21.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
